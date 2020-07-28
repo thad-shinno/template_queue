@@ -1,3 +1,4 @@
+// @author Thad Shinno
 #ifndef NODE_H
 #define NODE_H
 
